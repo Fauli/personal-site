@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Terminal</title>
+    <link>http://localhost:1313/public/tags/music/</link>
+    <description>Recent content in Music on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Feb 2025 21:13:51 +0100</lastBuildDate><atom:link href="http://localhost:1313/public/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dj Table</title>
+      <link>http://localhost:1313/public/posts/dj-table/</link>
+      <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/public/posts/dj-table/</guid>
+      <description>&lt;h1 id=&#34;dj-table&#34;&gt;DJ Table&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#dj-table&#34;&gt;DJ Table&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#important-facts&#34;&gt;Important facts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#list-of-woodcuts&#34;&gt;List of Woodcuts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#model&#34;&gt;Model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#cut-list&#34;&gt;Cut lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#assembly&#34;&gt;Assembly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Inspired by the sleek, functional design found on JJ Boooth&amp;rsquo;s projects, I embarked on creating my own DJ table tailored to my specific needs and aesthetics. This site documents the journey from conceptualization to the final product, detailing each step of the process for fellow enthusiasts and DIYers.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/inspiration.png&#34;  alt=&#34;inspiration&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/front-2-labels.png&#34;  alt=&#34;front-labels&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;h2 id=&#34;important-facts&#34;&gt;Important facts&lt;/h2&gt;
+&lt;p&gt;Before diving into the construction, it&amp;rsquo;s crucial to consider the dimensions and specifications of the equipment and materials to ensure everything fits perfectly and functions seamlessly.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;dj-table&#34;&gt;DJ Table&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#dj-table&#34;&gt;DJ Table&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#important-facts&#34;&gt;Important facts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#list-of-woodcuts&#34;&gt;List of Woodcuts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#model&#34;&gt;Model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#cut-list&#34;&gt;Cut lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/dj-table/#assembly&#34;&gt;Assembly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Inspired by the sleek, functional design found on JJ Boooth&amp;rsquo;s projects, I embarked on creating my own DJ table tailored to my specific needs and aesthetics. This site documents the journey from conceptualization to the final product, detailing each step of the process for fellow enthusiasts and DIYers.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/inspiration.png&#34;  alt=&#34;inspiration&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/front-2-labels.png&#34;  alt=&#34;front-labels&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;h2 id=&#34;important-facts&#34;&gt;Important facts&lt;/h2&gt;
+&lt;p&gt;Before diving into the construction, it&amp;rsquo;s crucial to consider the dimensions and specifications of the equipment and materials to ensure everything fits perfectly and functions seamlessly.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Name&lt;/th&gt;
+          &lt;th&gt;Value&lt;/th&gt;
+          &lt;th&gt;Comments&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Size of a record sleeve&lt;/td&gt;
+          &lt;td&gt;31.43 cm&lt;/td&gt;
+          &lt;td&gt;Normal vinyl cover size&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Size of a singles sleeve&lt;/td&gt;
+          &lt;td&gt;18.50 cm&lt;/td&gt;
+          &lt;td&gt;Singles vinyl cover&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Good height for a DJ table&lt;/td&gt;
+          &lt;td&gt;100.00 cm&lt;/td&gt;
+          &lt;td&gt;Plus the height of the DJ equipment&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Equipment&lt;/th&gt;
+          &lt;th&gt;Height [mm]&lt;/th&gt;
+          &lt;th&gt;Width [mm]&lt;/th&gt;
+          &lt;th&gt;Depth [mm]&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CDJ Nexus 3000&lt;/td&gt;
+          &lt;td&gt;118&lt;/td&gt;
+          &lt;td&gt;453&lt;/td&gt;
+          &lt;td&gt;329&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CDJ Nexus 2000&lt;/td&gt;
+          &lt;td&gt;114&lt;/td&gt;
+          &lt;td&gt;415&lt;/td&gt;
+          &lt;td&gt;320&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Xone:92&lt;/td&gt;
+          &lt;td&gt;88&lt;/td&gt;
+          &lt;td&gt;358&lt;/td&gt;
+          &lt;td&gt;320&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;list-of-woodcuts&#34;&gt;List of Woodcuts&lt;/h2&gt;
+&lt;p&gt;A precise list of materials and dimensions is essential for efficiency and minimizing waste. Below is a comprehensive table listing each piece required for the build, along with their dimensions and quantity.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;ID&lt;/th&gt;
+          &lt;th&gt;Piece&lt;/th&gt;
+          &lt;th&gt;Amount&lt;/th&gt;
+          &lt;th&gt;Height [mm]&lt;/th&gt;
+          &lt;th&gt;Width [mm]&lt;/th&gt;
+          &lt;th&gt;Thickness [mm]&lt;/th&gt;
+          &lt;th&gt;m^2 p.P.&lt;/th&gt;
+          &lt;th&gt;m^2 total&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;Side walls&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;960&lt;/td&gt;
+          &lt;td&gt;600&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;0.58&lt;/td&gt;
+          &lt;td&gt;1.16&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;Slot dividers&lt;/td&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td&gt;412&lt;/td&gt;
+          &lt;td&gt;482&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;0.20&lt;/td&gt;
+          &lt;td&gt;1.80&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;Center horizontal divider (shorter)&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;482&lt;/td&gt;
+          &lt;td&gt;1764&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;0.85&lt;/td&gt;
+          &lt;td&gt;0.85&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;Singles level&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;482&lt;/td&gt;
+          &lt;td&gt;576&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;0.28&lt;/td&gt;
+          &lt;td&gt;0.28&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;Bottom and Top&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;600&lt;/td&gt;
+          &lt;td&gt;1800&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;1.08&lt;/td&gt;
+          &lt;td&gt;2.16&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;Floor piece front and back&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;120&lt;/td&gt;
+          &lt;td&gt;1700&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;0.20&lt;/td&gt;
+          &lt;td&gt;0.40&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;Floor piece sides&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;120&lt;/td&gt;
+          &lt;td&gt;464&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;0.06&lt;/td&gt;
+          &lt;td&gt;0.12&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;8&lt;/td&gt;
+          &lt;td&gt;View protection for equipment&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;100&lt;/td&gt;
+          &lt;td&gt;1764&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;0.18&lt;/td&gt;
+          &lt;td&gt;0.36&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td&gt;Front horizontal&lt;/td&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;100&lt;/td&gt;
+          &lt;td&gt;279&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;0.03&lt;/td&gt;
+          &lt;td&gt;0.18&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10&lt;/td&gt;
+          &lt;td&gt;Front vertical&lt;/td&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;842&lt;/td&gt;
+          &lt;td&gt;100&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;0.08&lt;/td&gt;
+          &lt;td&gt;0.40&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11&lt;/td&gt;
+          &lt;td&gt;Front wall&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;842&lt;/td&gt;
+          &lt;td&gt;1764&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;1.49&lt;/td&gt;
+          &lt;td&gt;1.49&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;Top piece (CDJ level)&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;600&lt;/td&gt;
+          &lt;td&gt;1764&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;1.06&lt;/td&gt;
+          &lt;td&gt;1.06&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Total&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;7.71&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;model&#34;&gt;Model&lt;/h2&gt;
+&lt;p&gt;For easier visuailzation (And to ensure the above cuts really work :3) I created a small model out of cardboard.&lt;/p&gt;
+&lt;p&gt;I used 2mm thick cardboard and used a scale of 1 to 10. With that the thickness of the cardboard almost matched.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/model-back-2.jpg&#34;  alt=&#34;model-back-1&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;The back of the DJ table with space for records, headphones and other things.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/model-front-2.jpg&#34;  alt=&#34;model-front-2&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;The front of the DJ table with small spaces for decoration, i.e. singles, plants, lava lamp, etc.&lt;/p&gt;
+&lt;p&gt;NOTE: As of now, the model does not have the cuts for the holes in the very top to put the CDJs and mixer in. They will come soon.&lt;/p&gt;
+&lt;h2 id=&#34;cut-list&#34;&gt;Cut list&lt;/h2&gt;
+&lt;p&gt;After creating the model, I prepared optimized cut list based on the table of the list of wood cuts above. I used a &lt;a href=&#34;https://www.cutlistoptimizer.com/&#34;&gt;software I found online&lt;/a&gt; to draw the images. I came up with 2 different versions:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;wood-glazing&#34;&gt;Wood glazing&lt;/h2&gt;
+&lt;p&gt;I chose a teak wood glaze for the spruce to enhance its aesthetic appeal and protect the surface.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/glazing-1.jpg&#34;  alt=&#34;glazing-1&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/glazing-2.jpg&#34;  alt=&#34;glazing-2&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;So before any of the assembly steps are done. All pieces are proprely coated.
+Unforunately the sides of the pieces did not come out evenly colored.&lt;/p&gt;
+&lt;p&gt;To fix this, I&amp;rsquo;ll sand the sides that are visible after the assembly with a sander and re-paint them later.&lt;/p&gt;
+&lt;h2 id=&#34;metal-parts&#34;&gt;Metal Parts&lt;/h2&gt;
+&lt;p&gt;Here is a table listing the metal parts needed for the assembly:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Part&lt;/th&gt;
+          &lt;th&gt;Type&lt;/th&gt;
+          &lt;th&gt;Details&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Big Screws&lt;/td&gt;
+          &lt;td&gt;Self drilling long ones&lt;/td&gt;
+          &lt;td&gt;Used to screw together the wooden pieces directly&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Small Screws&lt;/td&gt;
+          &lt;td&gt;16mmx2.5mm&lt;/td&gt;
+          &lt;td&gt;Used to screw the L-Shapes to the wood&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;L-Shapes&lt;/td&gt;
+          &lt;td&gt;Metal wide L-Shapes&lt;/td&gt;
+          &lt;td&gt;Used for stabilization&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Make sure to use the appropriate size and type of screws, L-shapes, brackets, nuts, and washers for the assembly.&lt;/p&gt;
+&lt;h2 id=&#34;assembly&#34;&gt;Assembly&lt;/h2&gt;
+&lt;p&gt;Some impressions of the assembly of the piece. Unfortunately I did not make as many pictures as I hoped, because I got too much into the flow of finally assembling it.&lt;/p&gt;
+&lt;p&gt;Also, excuse the chaos of random things everywhere. We had a water damage and had to get literally everything replaced because of mold :)&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-1.png&#34;  alt=&#34;assembly-1&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;First I assemble the bottom piece to the side pieces to form a wide U shape.&lt;/p&gt;
+&lt;p&gt;Then I places the vertical front pices on the gound and placed the front panel wall on top of them. This ensured that the wall insode the U shape had the correct distance from the ground.&lt;/p&gt;
+&lt;p&gt;Then I added the center divider, again by using slot divider parts to ensure the distance from the bottom piece was 100% correct.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-2.png&#34;  alt=&#34;assembly-2&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;A view how it looks when standing up.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-3.png&#34;  alt=&#34;assembly-3&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;Using the same technique with the slot dividers to ensure the correct height from the horizontal center divider, I mounted the top piece.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-4.png&#34;  alt=&#34;assembly-4&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;To allow the cables to be hidden, some wide hole was cut in. I drilled two big holes with a drill on each end and connected them with the jigsaw.&lt;/p&gt;
+&lt;p&gt;Later on I added another such whole on the further left side of the DJ Table (Where we have the power plug in our studio)&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-5.png&#34;  alt=&#34;assembly-5&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;The front view protection was mounted. Together we decided to not lower the front piece into the DJ Table, bu thave it directly at the outmost point, creating no deepening..&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-6.png&#34;  alt=&#34;assembly-6&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;Better view of the top and hole&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-7.png&#34;  alt=&#34;assembly-7&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;The slot divider pieces were then added. This required a lot of measuring and caluations&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-8.png&#34;  alt=&#34;assembly-8&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;Afrer all slot dividers, the second top view protection and floor piece were all assmeblied, they could soon be put together.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-9.png&#34;  alt=&#34;assembly-9&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;Abother angle&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-10.png&#34;  alt=&#34;assembly-10&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;The holes for the CDJs and mixer had to be cut out of the top plate. This was done drilling holes along the markings and usind the jigsaw to cut out the pices.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Attention&lt;/em&gt; Cut along the &amp;ldquo;thin&amp;rdquo; middle line parts first. This way these don&amp;rsquo;t have to hold the weight of the whole piece when being the last attached part to it. I.e. perpendicular to the wood grain first, when along.&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-11.png&#34;  alt=&#34;assembly-11&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;Picture of with all holes cut out&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-12.png&#34;  alt=&#34;assembly-12&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;View from the front, with the yet missing tabs&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-13.png&#34;  alt=&#34;assembly-13&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;View from the back&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-14.png&#34;  alt=&#34;assembly-14&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;View with the DJ equipment. The edges surely need some grinding work&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-15.png&#34;  alt=&#34;assembly-15&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;Adding the vertical dividers for the front shelves&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-16.png&#34;  alt=&#34;assembly-16&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;Adding the horizontal dividers for the front shelves&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-17.png&#34;  alt=&#34;assembly-17&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;Screwing them in properly, so they hold nice lavalamps and such ;-)&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-18.png&#34;  alt=&#34;assembly-18&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;Attaching the floor piece rectangle, slightly more to the front, so the feet have more space when standing at the DJ table&lt;/p&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/assembly-19.png&#34;  alt=&#34;assembly-19&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;p&gt;Turning the table around on it&amp;rsquo;s proper side&lt;/p&gt;
+&lt;h2 id=&#34;finished-product&#34;&gt;Finished product&lt;/h2&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/finished-front.png&#34;  alt=&#34;finished-front&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+
+&lt;img src=&#34;http://localhost:1313/public/posts/dj-table/finished-front-2.png&#34;  alt=&#34;finished-front-2&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+</content>
+    </item>
+    
+  </channel>
+</rss>

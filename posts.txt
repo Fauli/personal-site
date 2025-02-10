@@ -1,0 +1,3 @@
+dj-table: /Users/franz/git/dj-table
+nalewkas: /Users/franz/git/nalewkas
+embroidery: /Users/franz/git/embroidery

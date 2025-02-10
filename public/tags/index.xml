@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Terminal</title>
+    <link>http://localhost:1313/public/tags/</link>
+    <description>Recent content in Tags on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Feb 2025 21:13:51 +0100</lastBuildDate><atom:link href="http://localhost:1313/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cooking</title>
+      <link>http://localhost:1313/public/tags/cooking/</link>
+      <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/public/tags/cooking/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Crafting</title>
+      <link>http://localhost:1313/public/tags/crafting/</link>
+      <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/public/tags/crafting/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Embroidery</title>
+      <link>http://localhost:1313/public/tags/embroidery/</link>
+      <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/public/tags/embroidery/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/public/tags/music/</link>
+      <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/public/tags/music/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Nalewka</title>
+      <link>http://localhost:1313/public/tags/nalewka/</link>
+      <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/public/tags/nalewka/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Woodworking</title>
+      <link>http://localhost:1313/public/tags/woodworking/</link>
+      <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/public/tags/woodworking/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

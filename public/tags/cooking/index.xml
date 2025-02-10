@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cooking on Terminal</title>
+    <link>http://localhost:1313/public/tags/cooking/</link>
+    <description>Recent content in Cooking on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Feb 2025 21:13:51 +0100</lastBuildDate><atom:link href="http://localhost:1313/public/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dj Table</title>
+      <link>http://localhost:1313/public/posts/nalewkas/</link>
+      <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/public/posts/nalewkas/</guid>
+      <description>&lt;h1 id=&#34;nalewkas&#34;&gt;Nalewkas&lt;/h1&gt;
+&lt;p&gt;My journey making various Nalewkas :)&lt;/p&gt;
+&lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#what-is-a-nalewka&#34;&gt;What is a Nalewka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#traditional-nalewka&#34;&gt;Traditional Nalewka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#standard-recipe-for-wi%c5%9bni%c3%b3wka&#34;&gt;Standard recipe for Wiśniówka&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#ingredients&#34;&gt;Ingredients&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#steps&#34;&gt;Steps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#nalewkas-tried-out&#34;&gt;Nalewkas tried out&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#onion&#34;&gt;Onion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#banana&#34;&gt;Banana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#red-beets&#34;&gt;Red beets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#tomatoes&#34;&gt;Tomatoes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#tried-but-not-documented&#34;&gt;Tried but not documented&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I was introduced to the world of Nalewka by a close friend some years ago, and since then, I&amp;rsquo;ve been crafting my own batches annually. More than just a delightful beverage to enjoy with friends, Nalewka also makes a thoughtful, handcrafted gift.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;nalewkas&#34;&gt;Nalewkas&lt;/h1&gt;
+&lt;p&gt;My journey making various Nalewkas :)&lt;/p&gt;
+&lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#what-is-a-nalewka&#34;&gt;What is a Nalewka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#traditional-nalewka&#34;&gt;Traditional Nalewka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#standard-recipe-for-wi%c5%9bni%c3%b3wka&#34;&gt;Standard recipe for Wiśniówka&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#ingredients&#34;&gt;Ingredients&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#steps&#34;&gt;Steps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#nalewkas-tried-out&#34;&gt;Nalewkas tried out&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#onion&#34;&gt;Onion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#banana&#34;&gt;Banana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#red-beets&#34;&gt;Red beets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#tomatoes&#34;&gt;Tomatoes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/public/posts/nalewkas/#tried-but-not-documented&#34;&gt;Tried but not documented&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I was introduced to the world of Nalewka by a close friend some years ago, and since then, I&amp;rsquo;ve been crafting my own batches annually. More than just a delightful beverage to enjoy with friends, Nalewka also makes a thoughtful, handcrafted gift.&lt;/p&gt;
+&lt;p&gt;Initially, I began with the classic fruity Nalewkas but soon ventured into a broader spectrum of flavors, experimenting with various ingredients to create unique blends.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-a-nalewka&#34;&gt;What is a Nalewka&lt;/h2&gt;
+&lt;p&gt;Nalewkas are a time-honored category of Polish liqueurs, evolving through centuries within Eastern European culinary traditions. These spirits trace their origins back to the medieval period, where ethyl alcohol was utilized to extract medicinal and flavor properties from botanical sources.&lt;/p&gt;
+&lt;p&gt;The traditional process involves maceration and maturation, during which bioactive constituents imbue the alcohol with both therapeutic benefits and a rich palette of flavors.&lt;/p&gt;
+&lt;p&gt;Over time, Nalewkas have transitioned from herbal remedies to cherished cultural beverages, enjoyed for both their health benefits and their culinary virtues.&lt;/p&gt;
+&lt;h2 id=&#34;traditional-nalewka&#34;&gt;Traditional Nalewka&lt;/h2&gt;
+&lt;p&gt;One of the most traditional types of Nalewka is Żubrówka, also known as Bison Grass Vodka. Żubrówka is infused with bison grass, which grows in the Białowieża Forest, a primeval woodland straddling Poland and Belarus. This particular grass gives Żubrówka its distinctive flavor and slight greenish tint.&lt;/p&gt;
+&lt;p&gt;Another classic Nalewka is Wiśniówka, a cherry nalewka, made from sour cherries and sugar. This type of nalewka is deeply rooted in Polish culinary traditions and is popular for its rich, sweet, and slightly tart flavor profile, which makes it a favorite during celebrations and family gatherings.&lt;/p&gt;
+&lt;h2 id=&#34;standard-recipe-for-wiśniówka&#34;&gt;Standard recipe for Wiśniówka&lt;/h2&gt;
+&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1 - 1.5 kg of sour cherries&lt;/li&gt;
+&lt;li&gt;500 ml of 96% Alcohol (Ethanol)&lt;/li&gt;
+&lt;li&gt;200 ml of pre-boiled water&lt;/li&gt;
+&lt;li&gt;200g - 500g of sugar (depending on preference)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;steps&#34;&gt;Steps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sterilize the vessel with boiling water to ensure cleanliness&lt;/li&gt;
+&lt;li&gt;Dilute the ethanol with pre-boiled water to achieve an alcohol strength of around 70%&lt;/li&gt;
+&lt;li&gt;Clean, pit, and slice the cherries before placing them in the sterilized vessel&lt;/li&gt;
+&lt;li&gt;Pour the 70% alcohol solution over the cherries, ensuring they are fully submerged&lt;/li&gt;
+&lt;li&gt;Keep in a dark and warm (room temperatur) place for 6 weeks
+&lt;ul&gt;
+&lt;li&gt;Shake every couple of days to ensure proper extraction of flavor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;After six weeks, strain the liquid into a bottle and mix the cherries with sugar&lt;/li&gt;
+&lt;li&gt;Allow the sugar to dissolve completely
+&lt;ul&gt;
+&lt;li&gt;Shake the sugar coated fruits from time to time to ensure even flavor absorption&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Combine the sugared cherry mixture back with the strained alcohol&lt;/li&gt;
+&lt;li&gt;Mature the mixture for an additional six months
+&lt;ul&gt;
+&lt;li&gt;Shake the vessel from time to time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pour the liquid into a bottle (or multiple bottles)&lt;/li&gt;
+&lt;li&gt;Let it rest for another six months to enhance smoothness and develop a well-rounded flavor profile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nalewkas-tried-out&#34;&gt;Nalewkas tried out&lt;/h2&gt;
+&lt;h3 id=&#34;onion&#34;&gt;Onion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1.3kg of onion&lt;/li&gt;
+&lt;li&gt;2.1l of 70% alcohol&lt;/li&gt;
+&lt;li&gt;?? sugar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/nalewkas/onions-scale.jpg&#34;  alt=&#34;onions-scale&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+
+&lt;img src=&#34;http://localhost:1313/public/posts/nalewkas/onions-front.jpg&#34;  alt=&#34;onions-front&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+
+&lt;img src=&#34;http://localhost:1313/public/posts/nalewkas/onions-top.jpg&#34;  alt=&#34;onions-top&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;h3 id=&#34;banana&#34;&gt;Banana&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1.6kg of fair trade bananas&lt;/li&gt;
+&lt;li&gt;2.1l of 70% alcohol&lt;/li&gt;
+&lt;li&gt;?? sugar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/nalewkas/bananas-scale.jpg&#34;  alt=&#34;bananas-scale&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+
+&lt;img src=&#34;http://localhost:1313/public/posts/nalewkas/bananas-front.jpg&#34;  alt=&#34;bananas-front&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+
+&lt;img src=&#34;http://localhost:1313/public/posts/nalewkas/bananas-top.jpg&#34;  alt=&#34;bananas-top&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;h3 id=&#34;beatroots&#34;&gt;Beatroots&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1.95kg of beatroots&lt;/li&gt;
+&lt;li&gt;2.1l of 70% alcohol&lt;/li&gt;
+&lt;li&gt;?? sugar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/nalewkas/beatroots-front.jpg&#34;  alt=&#34;beatroots-front&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;h3 id=&#34;tomatoes&#34;&gt;Tomatoes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1.7kg of tomatoes&lt;/li&gt;
+&lt;li&gt;2.1l of 70% alcohol&lt;/li&gt;
+&lt;li&gt;?? sugar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;img src=&#34;http://localhost:1313/public/posts/nalewkas/tomatoes-cleaning.jpg&#34;  alt=&#34;tomatoes-cleaning&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+
+&lt;img src=&#34;http://localhost:1313/public/posts/nalewkas/tomatoes-front.jpg&#34;  alt=&#34;tomatoes-front&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+
+&lt;img src=&#34;http://localhost:1313/public/posts/nalewkas/tomatoes-top.jpg&#34;  alt=&#34;tomatoes-top&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+
+&lt;h2 id=&#34;tried-but-not-documented&#34;&gt;Tried but not documented&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rhubarb and Strawberry&lt;/li&gt;
+&lt;li&gt;Mirabellen&lt;/li&gt;
+&lt;li&gt;Rasperries&lt;/li&gt;
+&lt;li&gt;Roasted Chestnut&lt;/li&gt;
+&lt;li&gt;Cherries and Chai tea&lt;/li&gt;
+&lt;li&gt;Jostaberry&lt;/li&gt;
+&lt;li&gt;Green Walnuts&lt;/li&gt;
+&lt;li&gt;Elderberries&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
