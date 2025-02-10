@@ -11,9 +11,6 @@
     <loc>http://localhost:1313/public/posts/dj-table/</loc>
     <lastmod>2025-02-10T21:13:51+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/public/posts/nalewkas/</loc>
-    <lastmod>2025-02-10T21:13:51+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/public/tags/embroidery/</loc>
     <lastmod>2025-02-10T21:13:51+01:00</lastmod>
   </url><url>
@@ -24,6 +21,9 @@
     <lastmod>2025-02-10T21:13:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/public/tags/nalewka/</loc>
+    <lastmod>2025-02-10T21:13:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/public/posts/nalewkas/</loc>
     <lastmod>2025-02-10T21:13:51+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/public/posts/</loc>

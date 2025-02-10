@@ -6,6 +6,7 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2025 Franz. All rights reserved.</copyright>
     <lastBuildDate>Mon, 10 Feb 2025 21:13:51 +0100</lastBuildDate><atom:link href="http://localhost:1313/public/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dj Table</title>
@@ -441,7 +442,153 @@ Unforunately the sides of the pieces did not come out evenly colored.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Dj Table</title>
+      <title>Embroidery</title>
+      <link>http://localhost:1313/public/posts/embroidery/</link>
+      <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
+      
+      <guid>http://localhost:1313/public/posts/embroidery/</guid>
+      <description>&lt;h1 id=&#34;embroidery&#34;&gt;Embroidery&lt;/h1&gt;
+&lt;p&gt;My journey making various embroideries&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;/p&gt;
+&lt;h2 id=&#34;machine&#34;&gt;Machine&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m using an Bernette b79. I like the model and can recommend it. However, my interactions with sowing machines are limited, so I dont have a lot of comparison :)
+But the machine works pretty great overall.&lt;/p&gt;
+&lt;h2 id=&#34;tooling&#34;&gt;Tooling&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve tried two tools so far, &lt;a href=&#34;https://www.stitchbuddy.de/&#34;&gt;StichBuddy&lt;/a&gt; on Mac and Inkscape with the &lt;a href=&#34;https://inkstitch.org/&#34;&gt;inkstick&lt;/a&gt; plugin.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Feature&lt;/th&gt;
+          &lt;th&gt;StitchBuddy&lt;/th&gt;
+          &lt;th&gt;Inkscape with Ink/Stitch Plugin&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Platform&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;macOS&lt;/td&gt;
+          &lt;td&gt;Cross-platform (Windows, Linux, macOS)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Primary Use&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Editing and managing embroidery files&lt;/td&gt;
+          &lt;td&gt;Vector graphics editor with embroidery plugin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;File Formats Supported&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Common embroidery formats like PES, DST&lt;/td&gt;
+          &lt;td&gt;Supports SVG natively; embroidery formats via plugin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Editing Capabilities&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Basic editing, such as resize, rotate, flip, change colors&lt;/td&gt;
+          &lt;td&gt;Extensive vector editing, plus embroidery-specific features like stitch direction, and density&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Free version with limited features; full version paid &lt;!-- raw HTML omitted --&gt; StitchBuddy Pro via In-App purchase removes saving limitation to 1,000 stitches (USD 49.99)&lt;/td&gt;
+          &lt;td&gt;Free (open-source)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;User Interface&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Tailored for embroidery editing with a straightforward interface&lt;/td&gt;
+          &lt;td&gt;Complex, suitable for advanced users familiar with vector graphics&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Additional Features&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Realistic 3D preview, thread color management, print templates&lt;/td&gt;
+          &lt;td&gt;Broad capabilities for graphic design; advanced embroidery features like auto-fill, and custom stitch patterns&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Because Inkscape so far covered my needs, I&amp;rsquo;m using it for now.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;embroidery&#34;&gt;Embroidery&lt;/h1&gt;
+&lt;p&gt;My journey making various embroideries&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;/p&gt;
+&lt;h2 id=&#34;machine&#34;&gt;Machine&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m using an Bernette b79. I like the model and can recommend it. However, my interactions with sowing machines are limited, so I dont have a lot of comparison :)
+But the machine works pretty great overall.&lt;/p&gt;
+&lt;h2 id=&#34;tooling&#34;&gt;Tooling&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve tried two tools so far, &lt;a href=&#34;https://www.stitchbuddy.de/&#34;&gt;StichBuddy&lt;/a&gt; on Mac and Inkscape with the &lt;a href=&#34;https://inkstitch.org/&#34;&gt;inkstick&lt;/a&gt; plugin.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Feature&lt;/th&gt;
+          &lt;th&gt;StitchBuddy&lt;/th&gt;
+          &lt;th&gt;Inkscape with Ink/Stitch Plugin&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Platform&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;macOS&lt;/td&gt;
+          &lt;td&gt;Cross-platform (Windows, Linux, macOS)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Primary Use&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Editing and managing embroidery files&lt;/td&gt;
+          &lt;td&gt;Vector graphics editor with embroidery plugin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;File Formats Supported&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Common embroidery formats like PES, DST&lt;/td&gt;
+          &lt;td&gt;Supports SVG natively; embroidery formats via plugin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Editing Capabilities&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Basic editing, such as resize, rotate, flip, change colors&lt;/td&gt;
+          &lt;td&gt;Extensive vector editing, plus embroidery-specific features like stitch direction, and density&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Free version with limited features; full version paid &lt;!-- raw HTML omitted --&gt; StitchBuddy Pro via In-App purchase removes saving limitation to 1,000 stitches (USD 49.99)&lt;/td&gt;
+          &lt;td&gt;Free (open-source)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;User Interface&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Tailored for embroidery editing with a straightforward interface&lt;/td&gt;
+          &lt;td&gt;Complex, suitable for advanced users familiar with vector graphics&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Additional Features&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Realistic 3D preview, thread color management, print templates&lt;/td&gt;
+          &lt;td&gt;Broad capabilities for graphic design; advanced embroidery features like auto-fill, and custom stitch patterns&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Because Inkscape so far covered my needs, I&amp;rsquo;m using it for now.&lt;/p&gt;
+&lt;h2 id=&#34;workflows&#34;&gt;Workflows&lt;/h2&gt;
+&lt;h3 id=&#34;get-pre-created-embroidery-designs&#34;&gt;Get pre-created embroidery designs&lt;/h3&gt;
+&lt;p&gt;There are various pages where you can get pre-made designs, so far I only used  &lt;a href=&#34;https://www.etsy.com/market/machine_embroidery_designs&#34;&gt;Etsy&lt;/a&gt;.
+The design I got there worked well and looked nice.&lt;/p&gt;
+&lt;h3 id=&#34;creating-own-embroidery-from-image&#34;&gt;Creating own embroidery from image&lt;/h3&gt;
+&lt;p&gt;You must have the &lt;a href=&#34;https://inkstitch.org/docs/install-macos/&#34;&gt;inkstitch plugin installed &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m using this image as starting point: &lt;a href=&#34;.attachments/sloth-head.svg&#34;&gt;sloth-head.svg&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open the file in Inkscape (it has to be SVG, maybe you need to &lt;a href=&#34;https://retouchinglabs.com/inkscape-convert-png-to-svg/&#34;&gt;convert&lt;/a&gt; it)&lt;/li&gt;
+&lt;li&gt;Click on &amp;ldquo;Extensions -&amp;gt; Ink/Stitch -&amp;gt; Params&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Wait for the param config to run through&lt;/li&gt;
+&lt;li&gt;Play around with the settings, so you like them&lt;/li&gt;
+&lt;li&gt;Hit apply and quit to return to the main screen&lt;/li&gt;
+&lt;li&gt;Click &amp;ldquo;File -&amp;gt; Save as..&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;In the file type, select i.e. PES or EXP depending on your machine, I&amp;rsquo;m using PES&lt;/li&gt;
+&lt;li&gt;Save the file and copy it to USB&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The output file is: &lt;a href=&#34;.attachments/sloth-head.pes&#34;&gt;sloth-head.pes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;An advanced version can be found here &lt;a href=&#34;.attachments/sloth-head-colored.svg&#34;&gt;sloth-head-colored.svg&lt;/a&gt;.
+With the created file as well: &lt;a href=&#34;.attachments/sloth-head-colored.pes&#34;&gt;sloth-head-colored.pes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;working-params&#34;&gt;Working params&lt;/h2&gt;
+&lt;p&gt;The Bernette b79 comes with 3 stitching hoops and hoop recognition. Use the smallest one that suits your need.&lt;/p&gt;
+&lt;p&gt;The above emroidery image can be seen applied in action here:
+
+&lt;img src=&#34;http://localhost:1313/public/posts/embroidery/applying.png&#34;  alt=&#34;Embroidery in action&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
+
+&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Nalewkas</title>
       <link>http://localhost:1313/public/posts/nalewkas/</link>
       <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
       
@@ -614,152 +761,6 @@ Unforunately the sides of the pieces did not come out evenly colored.&lt;/p&gt;
 &lt;li&gt;Green Walnuts&lt;/li&gt;
 &lt;li&gt;Elderberries&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Embroidery</title>
-      <link>http://localhost:1313/public/posts/embroidery/</link>
-      <pubDate>Mon, 10 Feb 2025 21:13:51 +0100</pubDate>
-      
-      <guid>http://localhost:1313/public/posts/embroidery/</guid>
-      <description>&lt;h1 id=&#34;embroidery&#34;&gt;Embroidery&lt;/h1&gt;
-&lt;p&gt;My journey making various embroideries&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;/p&gt;
-&lt;h2 id=&#34;machine&#34;&gt;Machine&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m using an Bernette b79. I like the model and can recommend it. However, my interactions with sowing machines are limited, so I dont have a lot of comparison :)
-But the machine works pretty great overall.&lt;/p&gt;
-&lt;h2 id=&#34;tooling&#34;&gt;Tooling&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;ve tried two tools so far, &lt;a href=&#34;https://www.stitchbuddy.de/&#34;&gt;StichBuddy&lt;/a&gt; on Mac and Inkscape with the &lt;a href=&#34;https://inkstitch.org/&#34;&gt;inkstick&lt;/a&gt; plugin.&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Feature&lt;/th&gt;
-          &lt;th&gt;StitchBuddy&lt;/th&gt;
-          &lt;th&gt;Inkscape with Ink/Stitch Plugin&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Platform&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;macOS&lt;/td&gt;
-          &lt;td&gt;Cross-platform (Windows, Linux, macOS)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Primary Use&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Editing and managing embroidery files&lt;/td&gt;
-          &lt;td&gt;Vector graphics editor with embroidery plugin&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;File Formats Supported&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Common embroidery formats like PES, DST&lt;/td&gt;
-          &lt;td&gt;Supports SVG natively; embroidery formats via plugin&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Editing Capabilities&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Basic editing, such as resize, rotate, flip, change colors&lt;/td&gt;
-          &lt;td&gt;Extensive vector editing, plus embroidery-specific features like stitch direction, and density&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Free version with limited features; full version paid &lt;!-- raw HTML omitted --&gt; StitchBuddy Pro via In-App purchase removes saving limitation to 1,000 stitches (USD 49.99)&lt;/td&gt;
-          &lt;td&gt;Free (open-source)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;User Interface&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Tailored for embroidery editing with a straightforward interface&lt;/td&gt;
-          &lt;td&gt;Complex, suitable for advanced users familiar with vector graphics&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Additional Features&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Realistic 3D preview, thread color management, print templates&lt;/td&gt;
-          &lt;td&gt;Broad capabilities for graphic design; advanced embroidery features like auto-fill, and custom stitch patterns&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Because Inkscape so far covered my needs, I&amp;rsquo;m using it for now.&lt;/p&gt;</description>
-      <content>&lt;h1 id=&#34;embroidery&#34;&gt;Embroidery&lt;/h1&gt;
-&lt;p&gt;My journey making various embroideries&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;/p&gt;
-&lt;h2 id=&#34;machine&#34;&gt;Machine&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m using an Bernette b79. I like the model and can recommend it. However, my interactions with sowing machines are limited, so I dont have a lot of comparison :)
-But the machine works pretty great overall.&lt;/p&gt;
-&lt;h2 id=&#34;tooling&#34;&gt;Tooling&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;ve tried two tools so far, &lt;a href=&#34;https://www.stitchbuddy.de/&#34;&gt;StichBuddy&lt;/a&gt; on Mac and Inkscape with the &lt;a href=&#34;https://inkstitch.org/&#34;&gt;inkstick&lt;/a&gt; plugin.&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Feature&lt;/th&gt;
-          &lt;th&gt;StitchBuddy&lt;/th&gt;
-          &lt;th&gt;Inkscape with Ink/Stitch Plugin&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Platform&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;macOS&lt;/td&gt;
-          &lt;td&gt;Cross-platform (Windows, Linux, macOS)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Primary Use&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Editing and managing embroidery files&lt;/td&gt;
-          &lt;td&gt;Vector graphics editor with embroidery plugin&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;File Formats Supported&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Common embroidery formats like PES, DST&lt;/td&gt;
-          &lt;td&gt;Supports SVG natively; embroidery formats via plugin&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Editing Capabilities&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Basic editing, such as resize, rotate, flip, change colors&lt;/td&gt;
-          &lt;td&gt;Extensive vector editing, plus embroidery-specific features like stitch direction, and density&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Cost&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Free version with limited features; full version paid &lt;!-- raw HTML omitted --&gt; StitchBuddy Pro via In-App purchase removes saving limitation to 1,000 stitches (USD 49.99)&lt;/td&gt;
-          &lt;td&gt;Free (open-source)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;User Interface&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Tailored for embroidery editing with a straightforward interface&lt;/td&gt;
-          &lt;td&gt;Complex, suitable for advanced users familiar with vector graphics&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Additional Features&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Realistic 3D preview, thread color management, print templates&lt;/td&gt;
-          &lt;td&gt;Broad capabilities for graphic design; advanced embroidery features like auto-fill, and custom stitch patterns&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Because Inkscape so far covered my needs, I&amp;rsquo;m using it for now.&lt;/p&gt;
-&lt;h2 id=&#34;workflows&#34;&gt;Workflows&lt;/h2&gt;
-&lt;h3 id=&#34;get-pre-created-embroidery-designs&#34;&gt;Get pre-created embroidery designs&lt;/h3&gt;
-&lt;p&gt;There are various pages where you can get pre-made designs, so far I only used  &lt;a href=&#34;https://www.etsy.com/market/machine_embroidery_designs&#34;&gt;Etsy&lt;/a&gt;.
-The design I got there worked well and looked nice.&lt;/p&gt;
-&lt;h3 id=&#34;creating-own-embroidery-from-image&#34;&gt;Creating own embroidery from image&lt;/h3&gt;
-&lt;p&gt;You must have the &lt;a href=&#34;https://inkstitch.org/docs/install-macos/&#34;&gt;inkstitch plugin installed &lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m using this image as starting point: &lt;a href=&#34;.attachments/sloth-head.svg&#34;&gt;sloth-head.svg&lt;/a&gt;.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Open the file in Inkscape (it has to be SVG, maybe you need to &lt;a href=&#34;https://retouchinglabs.com/inkscape-convert-png-to-svg/&#34;&gt;convert&lt;/a&gt; it)&lt;/li&gt;
-&lt;li&gt;Click on &amp;ldquo;Extensions -&amp;gt; Ink/Stitch -&amp;gt; Params&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Wait for the param config to run through&lt;/li&gt;
-&lt;li&gt;Play around with the settings, so you like them&lt;/li&gt;
-&lt;li&gt;Hit apply and quit to return to the main screen&lt;/li&gt;
-&lt;li&gt;Click &amp;ldquo;File -&amp;gt; Save as..&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;In the file type, select i.e. PES or EXP depending on your machine, I&amp;rsquo;m using PES&lt;/li&gt;
-&lt;li&gt;Save the file and copy it to USB&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The output file is: &lt;a href=&#34;.attachments/sloth-head.pes&#34;&gt;sloth-head.pes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;An advanced version can be found here &lt;a href=&#34;.attachments/sloth-head-colored.svg&#34;&gt;sloth-head-colored.svg&lt;/a&gt;.
-With the created file as well: &lt;a href=&#34;.attachments/sloth-head-colored.pes&#34;&gt;sloth-head-colored.pes&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;working-params&#34;&gt;Working params&lt;/h2&gt;
-&lt;p&gt;The Bernette b79 comes with 3 stitching hoops and hoop recognition. Use the smallest one that suits your need.&lt;/p&gt;
-&lt;p&gt;The above emroidery image can be seen applied in action here:
-
-&lt;img src=&#34;http://localhost:1313/public/posts/embroidery/applying.png&#34;  alt=&#34;Embroidery in action&#34;  class=&#34;center&#34;  style=&#34;border-radius: 4px;&#34;    /&gt;
-
-&lt;/p&gt;
 </content>
     </item>
     

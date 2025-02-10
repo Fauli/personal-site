@@ -3,6 +3,9 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"image"
+	"image/jpeg"
+	"image/png"
 	"io"
 	"os"
 	"os/exec"
@@ -81,7 +84,7 @@ func main() {
 
 		// Copy images and attachments
 		if _, err := os.Stat(imagesPath); err == nil {
-			copyDir(imagesPath, destAssetsPath)
+			copyAndCompressImages(imagesPath, destAssetsPath)
 		}
 		if _, err := os.Stat(attachmentsPath); err == nil {
 			copyDir(attachmentsPath, destAssetsPath)
@@ -118,6 +121,57 @@ func main() {
 	}
 }
 
+func copyAndCompressImages(src, dest string) {
+	os.MkdirAll(dest, os.ModePerm)
+	files, err := os.ReadDir(src)
+	if err != nil {
+		fmt.Println("Error reading directory:", err)
+		return
+	}
+	for _, file := range files {
+		srcPath := filepath.Join(src, file.Name())
+		destPath := filepath.Join(dest, file.Name())
+		if compressImage(srcPath, destPath) {
+			continue
+		}
+		copyFile(srcPath, destPath)
+	}
+}
+
+func compressImage(src, dest string) bool {
+	file, err := os.Open(src)
+	if err != nil {
+		return false
+	}
+	defer file.Close()
+
+	info, _ := file.Stat()
+	if info.Size() < 1024*1024 {
+		return false
+	}
+
+	img, format, err := image.Decode(file)
+	if err != nil {
+		return false
+	}
+
+	destFile, err := os.Create(dest)
+	if err != nil {
+		return false
+	}
+	defer destFile.Close()
+
+	if format == "jpeg" {
+		fmt.Println("shrinking jpeg")
+		jpeg.Encode(destFile, img, &jpeg.Options{Quality: 75})
+	} else if format == "png" {
+		fmt.Println("Shrinking png")
+		png.Encode(destFile, img)
+	}
+
+	return true
+}
+
 func copyDir(src, dest string) {
 	os.MkdirAll(dest, os.ModePerm)
 	files, err := os.ReadDir(src)
@@ -151,4 +205,3 @@ func copyFile(src, dest string) {
 		fmt.Println("Error copying file:", err)
 	}
 }
-
